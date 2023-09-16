@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.bg-container {
+    background-color: #f5f7fa;
+    height: 100vh;
+}
+.main-heading {
+    font-family: "Roboto";
+    font-size: 75px;
+    color: #183b56;
+    padding-top:30px;
+    padding-left: 10px;
+    font-weight: 700;
+}

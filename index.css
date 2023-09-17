@@ -60,6 +60,11 @@
     margin-left: 50px;
     padding-bottom: 20px;
 }
+.custom-arrow:hover {
+    color: blue;
+    cursor: pointer;
+    text-decoration: none;
+}
 .tv-image {
     height: 300px;
     width: 300px;

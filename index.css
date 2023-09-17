@@ -18,7 +18,7 @@
 .card-container {
     background-color: #ffffff;
     margin-left: 10px;
-    margin-right: 0px;
+    margin-right: 10px;
     margin-bottom: 50px;
     border-radius: 10px;
     box-shadow: 0 0 15px #222222;
@@ -34,8 +34,8 @@
     
 }
 .image-container {
-    height: 130px;
-    width: 130px;
+    height: 150px;
+    width: 150px;
     /* padding: 10px; */
     margin-left: 40px;
     margin-right: 40px;

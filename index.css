@@ -25,13 +25,13 @@
 }
 .card-heading {
     font-family: "Roboto";
-    font-size: 56px;
+    font-size: 46px;
     color: #183b56;
     font-weight: 700;
-    text-align: center;
+    text-align: left;
     padding-bottom: 40px;
     padding-top: 40px;
-    
+    padding-left: 20px;
 }
 .image-container {
     height: 150px;
